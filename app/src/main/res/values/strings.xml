@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Broadcast</string>
+    <string name="select_one">Select One</string>
+    <string name="custom">Custom</string>
+    <string name="battery_percentage">Battery Percentage</string>
+    <string name="wifi_state">Wifi State</string>
+</resources>
